@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beatricemilea
-- 👀 I’m interested in architecture
-- 🌱 I’m currently learning how to design buildings
-- 💞️ I’m looking to collaborate on design projects
-- 📫 How to reach me: beatriceandreeamilea@gmail.com
+- 👋 Hi, I’m Bea! <3
+- 👀 I’m interested in visionary architecture & lifestyle design projects
+- 🌱 I’m growing my digital garden
+- 💞️ I’m looking to collaborate on any kind of creative interdisciplinary design projects
+- 📫 How to reach me: beatriceandreeamilea@gmail.com & ig:@beatrice.milea
 
 <!---
 beatricemilea/beatricemilea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
